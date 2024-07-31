@@ -1,0 +1,8 @@
+{
+    "Home": "家",
+    "Cart": "バスケット",
+    "AddToCart": "バスケットに追加",
+    "RemoveFromCart": "カートから削除",
+    "AddAlert": "カートに追加されました",
+    "RemoveAlert": "カートから削除されました"
+}
